@@ -1,0 +1,27 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+.venv*/
+
+# macOS system files
+.DS_Store
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
